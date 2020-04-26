@@ -13,6 +13,7 @@
 		CBC15FFF2456066100F78178 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBC15FFD2456066100F78178 /* Main.storyboard */; };
 		CBC160012456066400F78178 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBC160002456066400F78178 /* Assets.xcassets */; };
 		CBC160042456066400F78178 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBC160022456066400F78178 /* LaunchScreen.storyboard */; };
+		CBC1600E24560ABE00F78178 /* BankAccount.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC1600D24560ABE00F78178 /* BankAccount.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CBC160002456066400F78178 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CBC160032456066400F78178 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CBC160052456066400F78178 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CBC1600D24560ABE00F78178 /* BankAccount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BankAccount.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CBC15FF72456066100F78178 /* AppDelegate.swift */,
 				CBC15FF92456066100F78178 /* SceneDelegate.swift */,
 				CBC15FFB2456066100F78178 /* ViewController.swift */,
+				CBC1600D24560ABE00F78178 /* BankAccount.swift */,
 				CBC15FFD2456066100F78178 /* Main.storyboard */,
 				CBC160002456066400F78178 /* Assets.xcassets */,
 				CBC160022456066400F78178 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CBC15FFC2456066100F78178 /* ViewController.swift in Sources */,
+				CBC1600E24560ABE00F78178 /* BankAccount.swift in Sources */,
 				CBC15FF82456066100F78178 /* AppDelegate.swift in Sources */,
 				CBC15FFA2456066100F78178 /* SceneDelegate.swift in Sources */,
 			);
